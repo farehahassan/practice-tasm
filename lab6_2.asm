@@ -1,0 +1,1 @@
+; combine lab 3 Q 1  and lab 3 Q 2 

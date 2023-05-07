@@ -13,7 +13,7 @@ int 21h
 mov dl , "a"
 int 21h
 
-mov dl , 08h
+mov dl , 09h
 int 21h
 
 mov ah , 4ch 
